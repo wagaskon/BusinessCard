@@ -1,6 +1,7 @@
 # DigitalBussiness Card
 
 It is React first Solo project from Scrimba.
+Deployed link: https://businesscard-react101.netlify.app/
 ## Requirements:
 From Scrimba: Design a busssiness card as shown in this image. (figma link was provided)
 
