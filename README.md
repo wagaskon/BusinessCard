@@ -7,20 +7,20 @@ From Scrimba: Design a busssiness card as shown in this image. (figma link was p
 - you can make any changes to it but it should replicate the design
 - you can change image, text , color.
 
- ![design](images/Design.png)  
+ ![design](src/images/Design.png)  
 
 ### My design: 
 
- ![design](images/Design2.png)
+ ![design](src/images/Design2.png)
 
 
 
 ## Code
 ### HTML
-Link: [Open HTML files in Editor](index.html)
+Link: [Open HTML files in Editor](public/index.html)
 
 ### CSS 
 Link: [Open CSS files in Editor](src/App.css)
 
 ### React Js files
-Link: [Open ReactJs files in Editor](src/App.jsx)
+Link: [Open ReactJs files in Editor](src/App.js)
